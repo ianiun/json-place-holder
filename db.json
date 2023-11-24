@@ -1,6 +1,5 @@
-  {
-    "total": 10,
-    "rows": [
+{
+    "leaveRecord": [
         {
             "StartDate": "2023-09-20",
             "NumberofDays": 5,
@@ -122,6 +121,128 @@
             "creat_time": "2023-09-22 17:20:52"
         }
     ],
-    "code": 200,
-    "msg": "查询成功"
+    "untreated": [
+        {
+            "StartDate": "2023-09-12",
+            "NumberofDays": 1,
+            "LeaveType": 2,
+            "ReasonforLeave": "24",
+            "id": 2,
+            "EndDate": "2023-09-23",
+            "Name": "潇湘",
+            "status": 1,
+            "last_update_time": "2023-09-21 15:53:24",
+            "creat_time": "2023-09-21 11:40:08"
+        },
+        {
+            "StartDate": "2023-09-19",
+            "NumberofDays": 5,
+            "LeaveType": 3,
+            "ReasonforLeave": "回家",
+            "id": 3,
+            "EndDate": "2023-09-13",
+            "Name": "小磊",
+            "status": 1,
+            "last_update_time": "2023-09-21 15:53:26",
+            "creat_time": "2023-09-21 11:40:08"
+        },
+        {
+            "StartDate": "2023-09-22",
+            "NumberofDays": 1,
+            "LeaveType": 2,
+            "ReasonforLeave": "12",
+            "id": 24,
+            "EndDate": "2023-09-23",
+            "Name": "张三1",
+            "status": 1,
+            "last_update_time": "2023-09-22 14:13:16",
+            "creat_time": "2023-09-22 14:13:16"
+        }
+    ],
+    "processedrows": [
+        {
+            "StartDate": "2023-09-20",
+            "NumberofDays": 5,
+            "LeaveType": 2,
+            "ReasonforLeave": "1",
+            "id": 1,
+            "EndDate": "2023-09-20",
+            "Name": "张三",
+            "status": 2,
+            "last_update_time": "2023-11-14 09:30:50",
+            "creat_time": "2023-09-21 11:40:08"
+        },
+        {
+            "StartDate": "2023-09-06",
+            "NumberofDays": 40,
+            "LeaveType": 1,
+            "ReasonforLeave": "42",
+            "id": 4,
+            "EndDate": "2023-09-05",
+            "Name": "雄安",
+            "status": 2,
+            "last_update_time": "2023-09-21 15:49:48",
+            "creat_time": "2023-09-21 11:40:08"
+        },
+        {
+            "StartDate": "2023-09-14",
+            "NumberofDays": 85,
+            "LeaveType": 1,
+            "ReasonforLeave": "1",
+            "id": 5,
+            "EndDate": "2023-09-20",
+            "Name": "李明",
+            "status": 2,
+            "last_update_time": "2023-09-21 15:49:49",
+            "creat_time": "2023-09-21 11:40:08"
+        },
+        {
+            "StartDate": "2023-09-12",
+            "NumberofDays": 2,
+            "LeaveType": 2,
+            "ReasonforLeave": "42",
+            "id": 6,
+            "EndDate": "2023-09-13",
+            "Name": "潇湘",
+            "status": 2,
+            "last_update_time": "2023-09-21 15:49:50",
+            "creat_time": "2023-09-21 11:40:08"
+        },
+        {
+            "StartDate": "2023-09-05",
+            "NumberofDays": 2,
+            "LeaveType": 1,
+            "ReasonforLeave": "12",
+            "id": 7,
+            "EndDate": "2023-09-07",
+            "Name": "11",
+            "status": 2,
+            "last_update_time": "2023-09-21 15:49:53",
+            "creat_time": "2023-09-21 11:40:08"
+        },
+        {
+            "StartDate": "2023-09-21",
+            "NumberofDays": 10,
+            "LeaveType": 1,
+            "ReasonforLeave": "5",
+            "id": 23,
+            "EndDate": "2023-09-22",
+            "Name": "张三",
+            "status": 2,
+            "last_update_time": "2023-09-21 15:50:17",
+            "creat_time": "2023-09-21 14:02:12"
+        },
+        {
+            "StartDate": "2023-09-14",
+            "NumberofDays": 12,
+            "LeaveType": 1,
+            "ReasonforLeave": "1",
+            "id": 25,
+            "EndDate": "2023-09-23",
+            "Name": "于璐",
+            "status": 2,
+            "last_update_time": "2023-09-22 17:21:02",
+            "creat_time": "2023-09-22 17:20:52"
+        }
+    ]
 }
